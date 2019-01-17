@@ -1,0 +1,33 @@
+div .wrapper {
+    text-align: center;
+}
+
+div#head {
+    background-color: rgb(52,71,86);
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+div#head a.challange-bold {
+    text-decoration: none;
+    font-weight: inherit;
+    font-size: 26px;
+    color: white;
+}
+div#head p {
+    padding-top: 15px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+div#content {
+    padding: 20px;
+}
+
+div#content p {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

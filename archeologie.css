@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav#navigatie {
+    text-align: left;
+    padding-left: 20px;
+    background-color: black;
+}
+nav#navigatie a {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    text-decoration: none;
+}
+nav#navigatie p {
+    padding-top: 10px;
+}
+
+
+div #text-container {
+
+}
+
+div #head {
+
+}
