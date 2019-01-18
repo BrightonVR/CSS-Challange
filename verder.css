@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+
 }
 
 nav#navigatie {
@@ -27,3 +28,13 @@ div #text-container {
 div #head {
 
 }
+
+div#page-text {
+    height: 100px;
+    text-align: center;
+}
+div#page-text p{
+    padding-top: 30px;
+}
+
+

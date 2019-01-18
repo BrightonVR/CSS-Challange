@@ -1,26 +1,39 @@
-body {
+
+* {
     margin: 0px;
+    padding: 0px;
 }
 
-#navigatie {
-    box-sizing: border-box;
+nav#navigatie {
+    text-align: left;
+    padding-left: 20px;
     background-color: black;
 }
-#navigatie ul {
-    text-decoration: none;
-}
-#navigatie ul li {
-    text-decoration: none;
-}
-#navigatie ul li a {
-    text-decoration: none;
+nav#navigatie a {
+    margin: 0px;
+    padding: 0px;
     color: white;
+    text-decoration: none;
+}
+nav#navigatie p {
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 
-.block {
+section.block {
     color: white;
     text-align: left;
     background-color: black;
     height: 250px;
     margin: 13px;
+}
+
+footer.bottom-text {
+    padding-top: 180px;
+    padding-left: 20px;
+}
+
+footer.bottom-text a{
+    text-decoration: none;
+    color: white;
 }

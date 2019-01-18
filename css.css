@@ -1,3 +1,6 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
 div .wrapper {
     text-align: center;
 }
@@ -31,3 +34,4 @@ div#content p {
     padding-bottom: 10px;
     padding-top: 10px;
 }
+
